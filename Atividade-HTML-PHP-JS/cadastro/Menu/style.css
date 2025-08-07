@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+html body {
+    background-color: #cdcdcd;
+  }
+
+*{
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  
+}
+
+.navbar{
+    background-color: rgb(252, 252, 67);
+}
+
+.nav-item{
+    font-weight: bold;
+}
+
+.title-371{
+    color: rgb(254, 33, 33);
+    font-weight: bold;
+
+}
+
+
+
+.menu-item {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}

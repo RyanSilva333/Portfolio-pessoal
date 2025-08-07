@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body{
+    background-color: rgb(239, 248, 255);
+}
+
+
+.middle-cotent{
+    padding-top: 10px;
+}
+
+
+header{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    background-color: yellow;
+    width: 410px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding-bottom: 2px;
+}
+
+
+
+
+strong{
+    color: red;
+}
+
+.conteudo-lista{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    background-color: #90b8ff;
+    width: 410px;
+    padding: 6px;
+    padding-bottom: 10px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+form{
+    display: grid;
+    gap: 0.5rem;
+    align-items: center;
+    text-align: center;
+}
+
+
+.label-CEP{
+    padding: 6px;
+    align-items: center;
+    text-align: center;
+    margin: auto; 
+}
+
+.consulta-CEP{
+    text-align: center;
+}
+
+input{
+    margin: auto;
+    width: 398px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    border: 1px solid transparent;
+    padding: 10px;
+}
+
+#Descricao{
+    padding: 30px;
+}
+
+
+input:hover{
+    border: 1px solid  green;
+}
+
+input:focus {
+    border: 1px solid  green; /* Altere a cor da borda quando o input está em foco */
+    background-color: #f0f8ff; /* Altere a cor de fundo quando em foco */
+    outline: none; /* Remove o contorno padrão do foco, se desejar */
+}
+
+.conteudo-CEP{
+    display: grid;
+}
+
+.enviar{
+    padding: 5px;
+    background-color: rgb(52, 245, 52);
+    color: white;
+    width: 70px;
+    border-radius: 2px;
+    border: none;
+}
+
+.enviar:hover{
+    background-color: rgb(39, 186, 39);
+}
+
+.apagar{
+    padding: 5px;
+    background-color: rgb(254, 80, 80);
+    color: white;
+    width: 70px;
+    border-radius: 2px;
+    border: none;
+}
+
+.apagar:hover{
+    background-color: rgb(255, 0, 0);
+}
+

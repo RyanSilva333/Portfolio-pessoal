@@ -1,0 +1,5 @@
+Cliente: pedro, 11111111111, 1111111, 11710 120, Rua Benedito Frizzo, 11, Cidade da Criança, Praia Grande, SP, 1111111111, pedro@pedro, 
+Cliente: pedro, 11111111111, 1111111, 11710 120, Rua Benedito Frizzo, 11, Cidade da Criança, Praia Grande, SP, 1111111111, pedro@pedro, 
+Cliente: pedro, 111111111111111111111111, 1111111, 11710 120, Rua Benedito Frizzo, 11, Cidade da Criança, Praia Grande, SP, 1111111111, pedro@pedro, 
+Cliente: pedro, 1111111, 1111111, 11710 120, Rua Benedito Frizzo, 11, Cidade da Criança, Praia Grande, SP, 1111111111, pedro@pedro, 
+Cliente: pedro, 000000000000, 1111111, 11710 120, Rua Benedito Frizzo, 11, Cidade da Criança, Praia Grande, SP, 1111111111, pedro@pedro, 
